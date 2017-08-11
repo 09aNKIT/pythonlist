@@ -1,5 +1,3 @@
-a = 1
-b = 3
-c = 4
-d = a*b*c 
-print(d)
+def x(n):
+    print n
+x(45)    
